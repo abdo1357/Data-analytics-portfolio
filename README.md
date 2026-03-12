@@ -23,5 +23,5 @@ Tools: Python, Pandas
 Description: Analyzed customer data to identify different customer segments.
 
 ## Contact
-LinkedIn: (ضع لينك لينكدان)  
-Email: (ضع ايميلك)
+LinkedIn: https://www.linkedin.com/in/abdelrahman-mohamed-210377216
+Email: abdog8956@gmail.com
