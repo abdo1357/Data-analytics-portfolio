@@ -21,7 +21,7 @@ Here you can find projects demonstrating my skills in data analysis, visualizati
 
 ![Dashboard](lasted%20dashboard.png)
 
-![Dashboard](Teal%Modern%Data%Analysts%Presentation.png)
+![Dashboard](Teal%20Modern%20Data%Analysts20%Presentation.png)
 
 ![Dashboard](Teal%20Modern%20Data%20Analysts%20Presentation%20(1).png)
 
