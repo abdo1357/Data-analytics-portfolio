@@ -1,5 +1,5 @@
 # Data-analytics-portfolio
-# Abdelrahman Mohamed - Data Analyst Portfolio
+# Abdelrahman Mohamed 
 
 Welcome to my Data Analytics Portfolio.  
 Here you can find projects demonstrating my skills in data analysis, visualization, and business insights.
@@ -26,5 +26,6 @@ Here you can find projects demonstrating my skills in data analysis, visualizati
 ![Dashboard](Teal%20Modern%20Data%20Analysts%20Presentation%20(1).png)
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/abdelrahman-mohamed-210377216
-Email: abdog8956@gmail.com
+#### LinkedIn: https://www.linkedin.com/in/abdelrahman-mohamed-210377216
+
+#### Email: abdog8956@gmail.com
