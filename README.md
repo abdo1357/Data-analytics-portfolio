@@ -15,15 +15,15 @@ Here you can find projects demonstrating my skills in data analysis, visualizati
 ## Projects
 
 ### Dashboard preview
-![Dashboard](S&P screen.png)
+![Dashboard](S&P%screen.png)
 
 ![Dashboard](Screenshot1.png)
 
-![Dashboard](lasted dashboard.png)
+![Dashboard](lasted%20dashboard.png)
 
-![Dashboard](Teal Modern Data Analysts Presentation.png)
+![Dashboard](Teal%Modern%Data%Analysts%Presentation.png)
 
-![Dashboard](Teal Modern Data Analysts Presentation (1).png)
+![Dashboard](Teal%20Modern%20Data%20Analysts%20Presentation%20(1).png)
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/abdelrahman-mohamed-210377216
