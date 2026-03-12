@@ -17,7 +17,7 @@ Here you can find projects demonstrating my skills in data analysis, visualizati
 ### Dashboard preview
 ![Dashboard](S&P screen.png)
 
-![Dashboard](charts.png)
+![Dashboard](Screenshot1.png)
 
 ![Dashboard](lasted dashboard.png)
 
