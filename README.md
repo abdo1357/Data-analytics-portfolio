@@ -14,13 +14,16 @@ Here you can find projects demonstrating my skills in data analysis, visualizati
 
 ## Projects
 
-### Sales Analysis Dashboard
-Tools: Power BI, Excel  
-Description: Built an interactive dashboard to analyze sales performance and identify business trends.
+### Dashboard preview
+![Dashboard](S&P screen.png)
 
-### Customer Segmentation
-Tools: Python, Pandas  
-Description: Analyzed customer data to identify different customer segments.
+![Dashboard](charts.png)
+
+![Dashboard](lasted dashboard.png)
+
+![Dashboard](Teal Modern Data Analysts Presentation.png)
+
+![Dashboard](Teal Modern Data Analysts Presentation (1).png)
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/abdelrahman-mohamed-210377216
